@@ -7,11 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "roblourens",
-  "license": "ISC",
-  "dependencies": {
-    "leftpad": "0.0.1"
-  },
-  "devDependencies": {
-    "in-publish": "^2.0.0"
-  }
+  "license": "ISC"
 }
